@@ -1,0 +1,12 @@
+input[type="checkbox"] {
+    width: 15px;
+    height: 15px;
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+.alert-danger {
+    padding: 5px !important;
+}
